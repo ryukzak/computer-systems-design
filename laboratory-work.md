@@ -17,7 +17,10 @@
 
 ## Литература:
 
-- [ ] в процессе подготовки
+- ISO/IEC/IEEE 42010 Systems and software engineering — Architecture description или ГОСТ Р 57100-2016/ISO/IEC/IEEE 42010:2011 Системная и программная инженерия. Описание архитектуры;
+- ISO/IEC/IEEE 15288:2015 Systems and software engineering -- System life cycle processes или ГОСТ Р ИСО/МЭК 15288-2005. Информационная технология. Системная инженерия. Процессы жизненного цикла систем
+- Clements, P., Garlan, D., Bass, L., Stafford, J., Nord, R., Ivers, J., & Little, R. (2002). Documenting software architectures: views and beyond. Pearson Education.
+
 
 ## Состав лабораторных работ
 
